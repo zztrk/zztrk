@@ -108,7 +108,7 @@
         </td>
        <td align="center"  width="96">
       <a href="https://www.linkedin.com/in/zztrk">
-        <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
