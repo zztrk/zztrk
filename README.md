@@ -109,6 +109,14 @@
       </a>
       <br>MongoDB
     </td>
+      </td>
+        </td>
+       <td align="center"  width="96">
+      <a href="https://www.linkedin.com/in/zztrk">
+        <img src="./img/elastic-stack.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>ELK
+    </td>
   </tr>
 </table>
 
