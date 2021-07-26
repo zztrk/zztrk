@@ -1,7 +1,17 @@
 <h1 align="left" id="zztrk-title">:wave: Hello there! I'm Emrah Öztürk</h1>
 <h3 align="left">I am a person who is curious about how things work, researchers, tried and believes in continuous improvement to see how I can do better.</h3>
 
-
+<p align="left">
+  <a href="https://github.com/zztrk/zztrk">
+    <img src="https://komarev.com/ghpvc/?username=zztrk" alt="page views" />
+  </a>
+  <a href="https://reddit.com/u/zztrk">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/zztrk?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/zztrk?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zztrk?color=green&logo=github">
+  </a>
+</p>
 
 <a href="#zztrk-title">
   <img src="https://github-readme-stats.vercel.app/api?username=zztrk&show_icons=true&count_private=true&include_all_commits=true" alt="zztrk" align="right" />
@@ -98,7 +108,7 @@
         </td>
        <td align="center"  width="96">
       <a href="https://www.linkedin.com/in/zztrk">
-        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
+        <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
