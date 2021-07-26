@@ -5,9 +5,6 @@
   <a href="https://github.com/zztrk/zztrk">
     <img src="https://komarev.com/ghpvc/?username=zztrk" alt="page views" />
   </a>
-  <a href="https://reddit.com/u/zztrk">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/zztrk?label=karma&logo=reddit">
-  </a>
   <a href="https://github.com/zztrk?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/zztrk?color=green&logo=github">
   </a>
