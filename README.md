@@ -113,9 +113,9 @@
         </td>
        <td align="center"  width="96">
       <a href="https://www.linkedin.com/in/zztrk">
-        <img src="./img/elastic-stack.svg" width="48" height="48" alt="MongoDB" />
+        <img src="./img/elastic-logo.svg" width="48" height="48" alt="Elastic Stack" />
       </a>
-      <br>ELK
+      <br>Elastic Stack
     </td>
   </tr>
 </table>
