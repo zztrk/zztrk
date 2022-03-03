@@ -14,7 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zztrk&show_icons=true&count_private=true&include_all_commits=true" alt="zztrk" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at partnership of Mikro, Zirve, Paraşüt
 - :seedling: &nbsp;I’m currently learning **Go**
 - :speech_balloon: &nbsp;I'm a big **Beşiktaş** fan
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
