@@ -2,10 +2,7 @@
 <h3 align="left">I am a person who is curious about how things work, researchers, tried and believes in continuous improvement to see how I can do better.</h3>
 
 <p align="left">
-  <a href="https://github.com/zztrk/zztrk">
-    <img src="https://komarev.com/ghpvc/?username=zztrk" alt="page views" />
-  </a>
-  <a href="https://github.com/zztrk?tab=followers">
+   <a href="https://github.com/zztrk?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/zztrk?color=green&logo=github">
   </a>
 </p>
